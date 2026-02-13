@@ -14,5 +14,19 @@ A desktop QR Code Generator built with Python and Tkinter.
 - Pillow
 
 ## Run the app
-```bash
 python qr_gui.py
+
+## Screenshots
+
+### Main Interface
+![Main Interface](screenshots/app-home.png)
+
+### QR Code Preview
+![QR Preview](screenshots/qr-preview.png)
+
+### Save Dialog
+![Save Dialog](screenshots/save-dialog.png)
+
+
+## Author
+C. Makwara
