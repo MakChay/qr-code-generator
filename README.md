@@ -22,6 +22,10 @@ python qr_gui.py
 ![Main Interface](screenshots/app-home.png)
 
 ### QR Code Preview
+<p align="center">
+  <img src="screenshots/qr-preview.png" width="400"/>
+</p>
+
 ![QR Preview](screenshots/qr-preview.png)
 
 ### Save Dialog
